@@ -1,0 +1,8 @@
+setup.py
+kuf_messdaten_objects/__init__.py
+kuf_messdaten_objects/kufi_types.py
+kuf_messdaten_objects.egg-info/PKG-INFO
+kuf_messdaten_objects.egg-info/SOURCES.txt
+kuf_messdaten_objects.egg-info/dependency_links.txt
+kuf_messdaten_objects.egg-info/not-zip-safe
+kuf_messdaten_objects.egg-info/top_level.txt
